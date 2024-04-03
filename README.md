@@ -11,7 +11,7 @@
 ## :pushpin: Contact
 - 이메일: spotiz3377@naver.com
 - 블로그: 
-- 깃헙: [https://github.com/)
+- 깃헙: https://github.com/dongju12
 
 </br>
 
